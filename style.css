@@ -40,4 +40,9 @@
     font-size: 25px;
   }
 
- 
+ canvas{
+   border:5px solid skyblue;
+   border-radius: 22px;
+   box-shadow:15px 15px 15px crimson;
+   margin-top:160px;
+ }
